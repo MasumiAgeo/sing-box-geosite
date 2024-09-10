@@ -1,13 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "music.youtube.com",
-        "youtubei.googleapis.com",
-        "yt3.ggpht.com"
-      ]
-    },
-    {
       "domain_keyword": [
         "youtube"
       ]
